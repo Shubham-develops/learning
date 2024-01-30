@@ -1,2 +1,2 @@
 # learning
-I have learned git commands and concept
+I have learned git commands and concepts
